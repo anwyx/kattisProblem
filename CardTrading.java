@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.util.*;
 class Money {
     int type;
