@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.util.*;
 //construct a class to store the name, first leg time and other leg time
 class Runner {
