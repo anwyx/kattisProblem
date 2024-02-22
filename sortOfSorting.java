@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.util.*;
 public class sortOfSorting {
     public static void main(String[] args) {
