@@ -1,4 +1,3 @@
-//Wang Yaxin
 import java.util.*;
 import java.io.*;
 class coordinate {//create a class to store the coordinate
