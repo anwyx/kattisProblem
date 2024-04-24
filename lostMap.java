@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.io.*;
 import java.util.*;
 class Road implements Comparable<Road> {//create a class to store each edge's vertices and weight
