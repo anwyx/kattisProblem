@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.util.*;
 import java.io.*;
 class vault {//create a class to store the height difference between each element of the grid
