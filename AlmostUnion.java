@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.io.*;
 class writtenUFDS {//create a class to store this UFDS
     public int[] a;
