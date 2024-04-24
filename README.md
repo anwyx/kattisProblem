@@ -1,1 +1,1 @@
-This is a repo consisting my code for Kattis questions, including T9 Spelling, Best Relay Team, Card Trading, Sort of Sorting, Coconut Splat.
+This is a repo consisting my code for Kattis questions, including T9 Spelling, Best Relay Team, Card Trading, Sort of Sorting, Join Strings, Teque, Coconut Splat, Conformity, Assigning Workstations, Almost Union-Find, Nicknames, Kattis's Quest, Weak Vertices, Millionaire Madness, Dominos, Islands, Lost Map, Human Cannonball Run.
