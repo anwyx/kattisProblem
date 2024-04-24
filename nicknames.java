@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.io.*;
 class AVLNode {//create node for AVL tree
     String name;
