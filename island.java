@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.util.*;
 import java.io.*;
 class GridCell {//create a class to store the row index and column index of each grid element
