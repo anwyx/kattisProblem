@@ -1,4 +1,3 @@
-//Wang Yaxin A0258848H
 import java.util.*;
 import java.io.*;
 class Node {//form a class for each node containing a string and a next pointer
