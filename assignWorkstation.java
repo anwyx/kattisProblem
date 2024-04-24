@@ -1,4 +1,3 @@
-//Wang Yaxin
 import java.util.*;
 import java.io.*;
 class Researcher {//add a class to store the arriving time and staying duration of the researchers
